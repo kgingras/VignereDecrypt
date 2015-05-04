@@ -1,0 +1,1 @@
+Neither file can fully decrypt a vignere cipher without the other and some human analysis. First one must run the vigatt.py with the string you are trying to decrypt. Using a kasiski test one must decide on the length of encryption key. I was working with a key length of 7, so I constructed the char_analys.py to run knowing the key was length 7.
